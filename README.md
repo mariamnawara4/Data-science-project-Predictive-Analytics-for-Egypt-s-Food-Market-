@@ -17,8 +17,8 @@ Machine learning pipeline to analyze and predict food price volatility in Egypt 
 - **Validation:** 5-Fold Walk-Forward Time-Series Cross-Validation
 
 
-Team
-Abrar Ahmed Gharbia
-Mariam Mohamed Elshilek
-Mariam Mohamed Nawara
-Norhan Hany Elladam
+#### Team
+- Abrar Ahmed Gharbia
+- Mariam Mohamed Elshilek
+- Mariam Mohamed Nawara
+- Norhan Hany Elladam
